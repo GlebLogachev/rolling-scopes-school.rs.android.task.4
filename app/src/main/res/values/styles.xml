@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Buttons">
+        <item name="android:textAppearance">@style/ButtonsTextAppearance</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/teal_200</item>
+        <item name="android:gravity">center</item>
+        <item name="cornerRadius">10dp</item>
+    </style>
+    <style name="Buttons.Delete" parent="Buttons">
+        <item name="android:background">@color/red</item>
+    </style>
+    <style name="ButtonsTextAppearance" parent="TextAppearance.MaterialComponents.Subtitle2" />
+
+</resources>

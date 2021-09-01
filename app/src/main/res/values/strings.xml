@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyCrypto</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="date">Date</string>
+    <string name="add_new_crypto">Add new crypto</string>
+    <string name="investment_amount">investment amount: %s</string>
+    <string name="coin_name">Coin name</string>
+    <string name="add_crypto">Add</string>
+    <string name="filters">filters</string>
+    <string name="update_state">update your cryptocurrency purchase details</string>
+    <string name="add_new_crypto_state">add new crypto info</string>
+    <string name="error_input">input error</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+</resources>
